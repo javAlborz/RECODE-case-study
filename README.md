@@ -3,7 +3,7 @@
 
 This repository contains the code for the phd case study for DTU RECODE. 
 
-![test image](images_pp/test_image.png)
+![test image](test_image.png)
 ![similar images](similar_images.png)
 
 ## [EDA.py](EDA.py)
